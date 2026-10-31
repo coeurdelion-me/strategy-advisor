@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: execution-request-is-out-of-scope
+expected_outcome: |
+  Recognises this as execution planning rather than strategy, says so briefly, and does not produce a Diagnosis / Framework Selected strategy memo about CRM migration.

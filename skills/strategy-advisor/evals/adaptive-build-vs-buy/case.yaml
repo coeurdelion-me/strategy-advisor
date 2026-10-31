@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: adaptive-build-vs-buy
+expected_outcome: |
+  Identifies an unpredictable environment the company cannot shape (adaptive), selects an adaptive-style framework such as Wardley Mapping or real options, states why it fits, and gives a clear build-versus-buy direction in bullets.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: conflict-asks-before-recommending
+expected_outcome: |
+  Diagnoses a predictable, hard-to-shape market (classical), presents the cost-cutting and the app-investment perspectives with their frameworks, asks one or two specific questions, and stops without recommending a single path.

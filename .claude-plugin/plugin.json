@@ -1,0 +1,10 @@
+{
+  "name": "strategy-advisor",
+  "description": "Diagnose a business problem, pick the strategic framework that fits its environment (Reeves's Strategy Palette) and get concise advice in a fixed four-part structure.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Coeur de Lion"
+  },
+  "repository": "https://github.com/coeurdelion-me/strategy-advisor",
+  "license": "CC-BY-NC-4.0"
+}
